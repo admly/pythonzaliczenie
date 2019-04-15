@@ -1,0 +1,14 @@
+zdanie zdanie zdanie
+wyraz zdanie
+wyraz
+zdaniewyraz
+zdanie
+slowo wyraz zdanie
+
+slowo wyraz
+
+     s     slowo
+
+word: 'zdanie' count: 6; word: 'wyraz' count: 4; word: 'slowo' count: 3; word: 'zdaniewyraz' count: 1; word: 's' count: 1; 
+word: 'zdanie' count: 6; word: 'word:' count: 5; word: 'count:' count: 5; word: 'wyraz' count: 4; word: 'slowo' count: 3; word: '1;' count: 2; word: 'zdaniewyraz' count: 1; word: 's' count: 1; word: ''zdanie'' count: 1; word: '6;' count: 1; 
+word: 'word:' count: 15; word: 'count:' count: 15; word: 'zdanie' count: 6; word: '1;' count: 6; word: 'wyraz' count: 4; word: 'slowo' count: 3; word: ''zdanie'' count: 2; word: '6;' count: 2; word: ''wyraz'' count: 2; word: '4;' count: 2; 
